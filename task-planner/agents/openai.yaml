@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Planner"
+  short_description: "Plan complex work, track progress, and execute in phases."
+  default_prompt: "Use $task-planner to break down this task, track progress, and execute it in phases."
